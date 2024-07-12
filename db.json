@@ -1,46 +1,130 @@
 {
-  "posts": [
+  "Paperback":[
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+      "bookStore": "Paperback Paradise",
+      "bookName": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "cost": 412
+    },
+    {
+      "bookStore": "Paperback Paradise",
+      "bookName": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "cost": 398
+    },
+    {
+      "bookStore": "Paperback Paradise",
+      "bookName": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "cost": 275
+    },
+    {
+      "bookStore": "Paperback Paradise",
+      "bookName": "The Adventures of Sherlock Holmes",
+      "author": "Arthur Conan Doyle",
+      "cost": 489
+    },
+    {
+      "bookStore": "Paperback Paradise",
+      "bookName": "The Martian",
+      "author": "Andy Weir",
+      "cost": 167
+    },
+    {
+      "bookStore": "Paperback Paradise",
+      "bookName": "Animal Farm",
+      "author": "George Orwell",
+      "cost": 344
+    },
+    {
+      "bookStore": "Paperback Paradise",
+      "bookName": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "cost": 408
+    },
+    {
+      "bookStore": "Paperback Paradise",
+      "bookName": "The Handmaid's Tale",
+      "author": "Margaret Atwood",
+      "cost": 299
+    },
+    {
+      "bookStore": "Paperback Paradise",
+      "bookName": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "cost": 181
+    },
+    {
+      "bookStore": "Paperback Paradise",
+      "bookName": "Moby Dick",
+      "author": "Herman Melville",
+      "cost": 428
+    },
+    {
+      "bookStore": "Paperback Paradise",
+      "bookName": "One Hundred Years of Solitude",
+      "author": "Gabriel García Márquez",
+      "cost": 319
+    },
+    {
+      "bookStore": "Paperback Paradise",
+      "bookName": "Frankenstein",
+      "author": "Mary Shelley",
+      "cost": 255
+    },
+    {
+      "bookStore": "Paperback Paradise",
+      "bookName": "The Adventures of Huckleberry Finn",
+      "author": "Mark Twain",
+      "cost": 495
+    },
+    {
+      "bookStore": "Paperback Paradise",
+      "bookName": "The Count of Monte Cristo",
+      "author": "Alexandre Dumas",
+      "cost": 184
+    },
+    {
+      "bookStore": "Paperback Paradise",
+      "bookName": "Invisible Man",
+      "author": "Ralph Ellison",
+      "cost": 380
+    },
+    {
+      "bookStore": "Paperback Paradise",
+      "bookName": "Jane Eyre",
+      "author": "Charlotte Brontë",
+      "cost": 297
+    },
+    {
+      "bookStore": "Paperback Paradise",
+      "bookName": "Things Fall Apart",
+      "author": "Chinua Achebe",
+      "cost": 133
+    },
+    {
+      "bookStore": "Paperback Paradise",
+      "bookName": "The Hitchhiker's Guide to the Galaxy",
+      "author": "Douglas Adams",
+      "cost": 464
+    },
+    {
+      "bookStore": "Paperback Paradise",
+      "bookName": "Lord of the Flies",
+      "author": "William Golding",
+      "cost": 205
+    },
+    {
+      "bookStore": "Paperback Paradise",
+      "bookName": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "cost": 403
+    },
+    {
+      "bookStore": "Paperback Paradise",
+      "bookName": "Dracula",
+      "author": "Bram Stoker",
+      "cost": 193
     }
-  ],
-  "users": [
-    {
-      "id": 1,
-      "name": "John Doe",
-      "email": "johndoe@example.com"
-    },
-    {
-      "id": 2,
-      "name": "Jane Smith",
-      "email": "janesmith@example.com"
-    },
-    {
-      "id": 3,
-      "name": "Robert Brown",
-      "email": "robertbrown@example.com"
-    },
-    {
-      "id": 4,
-      "name": "Emily Davis",
-      "email": "emilydavis@example.com"
-    },
-    {
-      "id": 5,
-      "name": "Michael Wilson",
-      "email": "michaelwilson@example.com"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
